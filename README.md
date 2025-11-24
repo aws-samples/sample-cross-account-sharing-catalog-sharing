@@ -1,5 +1,7 @@
 # Cross Account Catalog Sharing
 
+## Architecture
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
